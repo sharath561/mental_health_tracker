@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589337399568",
+    "project_id": "mentalhealth-app-c58ac",
+    "storage_bucket": "mentalhealth-app-c58ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589337399568:android:f1a79e7985093cb52b9595",
+        "android_client_info": {
+          "package_name": "com.shashank.mentalhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589337399568-4mn84q4gg04sg3vd0qv1hl4tl817mvi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shashank.mentalhealth",
+            "certificate_hash": "95ea33bc07ef524dd35168326da7ca2ca1d7465a"
+          }
+        },
+        {
+          "client_id": "589337399568-2pbdik4jgv2pbuo7t3v07akjoadvcjjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgYp6BKbhZgNjzetljyjO3lfwOH7MsNEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589337399568-2pbdik4jgv2pbuo7t3v07akjoadvcjjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
